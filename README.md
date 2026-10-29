@@ -1,30 +1,26 @@
-# Login-form
-# 🔐 Login Form
+# 🔐 Stylish Login Page
 
-A simple and responsive Login Form created with HTML, CSS, and JavaScript.
+A clean, modern and fully responsive login page with stylish design and smooth animations.
 
-### ✨ Features
-- Clean and modern UI
-- Fully Responsive (Mobile Friendly)
-- Form Validation with JavaScript
-- Simple and easy to understand code
-
-### 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
-### 🚀 How to Use
-1. Clone the repository:
-   `git clone https://github.com/laiba-sarwar87/Login-form.git`
-2. Open `index.html` in your browser.
-
-### 🔗 Live Demo
-[Click here to see live](https://laiba-sarwar87.github.io/Login-form/)
-
-### 👩‍💻 Author
-**Laiba Sarwar**
-- GitHub: [@laiba-sarwar87](https://github.com/laiba-sarwar87)
+### 🚀 Live Demo
+👉 **Click Here to View Live:** [https://laiba-sarwar87.github.io/Login-Page/](https://laiba-sarwar87.github.io/Login-Page/)
 
 ---
-⭐ Agar aapko pasand aaye to Star dena na bhooliye!
+
+### ✨ Features
+- 📱 Fully Responsive - Mobile, Tablet & Desktop
+- 🎨 Modern UI with Glassmorphism Effect
+- 🔒 Input Validation (Email & Password)
+- 👁️ Show / Hide Password Toggle
+- ✨ Smooth Hover & Focus Animations
+- 🚫 Error Messages for Invalid Inputs
+
+### 🛠️ Tech Stack
+- **HTML5** - Structure
+- **CSS3** - Styling & Animations
+- **JavaScript** - Form Validation & Logic
+
+### 📂 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/laiba-sarwar87/Login-Page.git
