@@ -1,7 +1,7 @@
 let isLoginMode = false;
 function toggleMode() {
     isLoginMode = !isLoginMode;
-
+    
     let username = document.getElementById("username");
     let confirmPass = document.getElementById("confirmPassword");
     let actionBtn = document.getElementById("actionBtn");
