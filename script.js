@@ -1,5 +1,4 @@
 let isLoginMode = false;
-
 function toggleMode() {
     isLoginMode = !isLoginMode;
 
