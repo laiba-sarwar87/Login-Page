@@ -56,12 +56,14 @@ input {
     outline: none;
     transition: 0.3s;
 }
+
 input:-webkit-autofill{
         -webkit-box-shadow:opx 1000px #a3e1b2 inser !important;
 }
 input:focus {
     border-color: #02320e;
 }
+
 button {
     width: 30%;
     padding: 10px;
