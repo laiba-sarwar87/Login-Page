@@ -12,7 +12,7 @@ A clean, modern and fully responsive login page with stylish design and smooth a
 - 🎨 Modern UI with Glassmorphism Effect
 - 🔒 Input Validation (Email & Password)
 - 👁️ Show / Hide Password Toggle
-- ✨ Smooth Hover & Focus Animations
+- ✨ Smooth hover & Focus Animations
 - 🚫 Error Messages for Invalid Inputs
 
 ### 🛠️ Tech Stack
